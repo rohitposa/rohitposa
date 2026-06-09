@@ -12,7 +12,6 @@ Aspiring Cloud & DevOps Engineer
 
 ## Projects
 - Cloud File Uploader (AWS S3 + EC2 + Docker)
-- Virtual AI Painter
 
 ## Currently Learning
 - CI/CD
